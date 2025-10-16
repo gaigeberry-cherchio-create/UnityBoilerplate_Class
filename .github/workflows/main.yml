@@ -3,7 +3,7 @@
 # only run when pushed to master or main branches
 on:
   push:
-    branches:
+    branches: 
       - master
       - main
 
